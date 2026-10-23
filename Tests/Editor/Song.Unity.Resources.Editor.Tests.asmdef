@@ -1,0 +1,15 @@
+{
+  "name": "Song.Unity.Resources.Editor.Tests",
+  "rootNamespace": "Tests.EditMode.UnityResources",
+  "references": [
+    "Song.Unity.Resources",
+    "Song.Unity.Utilities"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "autoReferenced": false
+}

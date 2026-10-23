@@ -1,0 +1,10 @@
+{
+  "name": "com.song.unity-resources",
+  "version": "0.1.0",
+  "displayName": "Unity Resources",
+  "description": "Resources-based GameObject pooling and sprite caching.",
+  "unity": "6000.3",
+  "dependencies": {
+    "com.song.unity-utilities": "0.1.0"
+  }
+}
